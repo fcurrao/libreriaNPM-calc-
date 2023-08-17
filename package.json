@@ -1,0 +1,18 @@
+ 
+
+{
+  "type":"module",
+  "name": "calculadora-easy-2",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^9.8.1"
+  }
+}
